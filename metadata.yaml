@@ -1,0 +1,37 @@
+_repo: A-little-philosophy-of-life_74047
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burdette, Robert J. (Robert Jones)
+    alias: Burdette, Robert Jones
+    birthdate: 1844
+    deathdate: 1914
+    gutenberg_agent_id: '57320'
+    url: http://www.gutenberg.org/2009/agents/57320
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Jones_Burdette
+description: ''
+gutenberg_issued: '2024-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74047'
+  lccn: '14009984'
+language: en
+pgterms:marc904: https://archive.org/details/littlephilosophy00burd/page/n1/mode/2up
+pgterms:marc905: 20240704044422burdette
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aPasadena :$bClara Vista Press, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life'
+- !lcsh 'Conduct of life'
+- !lcsh 'Maxims, American'
+- !lcc 'PS'
+- GITenberg
+title: A little philosophy of life
+url: http://www.gutenberg.org/ebooks/74047
